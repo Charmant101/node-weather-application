@@ -45,7 +45,7 @@ app.get('/help',(req,res)=>{
     res.render('help',{
         title:'help',
         name: 'Oladele Omoarukhe',
-        message:'This page is designed to cater to all your burning questions'
+        message:'To cater to all your burning questions,kindly contact me on github,or send me a mail to daylayomoarukhe@yahoo.com'
     })
 });
 
